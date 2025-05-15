@@ -1,55 +1,109 @@
 * {
-    color: #06371a;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
-
-body {
-    width: 80%;
+    border-radius: 7px;
+    background-color: #EDF4F2;
+    max-width: 950px;
     margin: auto;
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
-
-header {
-    border: 5px solid #109648;
-    background-color: #947eb0;
-    margin-bottom: 10px;
-    padding: 10px;
-}
-
-nav {
-    border: 5px solid #63d471;
-    background-color: #947eb0;
-    margin-bottom: 10px;
-    padding: 10px;
-}
-
-nav ul {
-    display: flex;
-    list-style: none;
-    justify-content: space-around;
-    padding: 0px;
-}
-
 article {
-    border: 5px solid #809848;
-    background-color: #947eb0;
-    margin-bottom: 10px;
-    padding: 10px;
+border: 6px solid #31473A;
+padding: 0px;
+padding-bottom: 2px;
+text-align: center;
+
 }
-
-article img {
-    max-width: 70%;
-    flex-wrap: wraps;
-}
-
-
 footer {
-    border: 5px solid #63d471;
-    background-color: #947eb0;
-    padding: 10px;
+    margin-top: 15px;
+    border: solid 5px #31473A;
+}
+ 
+h1 {
+    text-align: center;
+}
+li {
+    float: left;
+    margin-left: 165px;
+}
+a {
+    display: block;
+    padding: 8px;
+}
+ul {
+    list-style-type: none;
+    margin: 10px;
+    padding: 0;
+    overflow: hidden;
+    background-color: #31473A;
+
+}
+li a {
+    border-radius: 0px;
+    margin: 0px;
+    display: block;
+    color: white;
+ text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    background-color: #31473A;
+}
+li a:hover {
+    background-color: black;
+}
+.active {
+    background-color: black
+}
+img {
+    max-width: 300px;
 }
 .mylove {
+overflow: scroll;
+max-height: 500px;
+max-width: 400px;
+justify-content: right;
+margin-left: 450px;
+font-size: 18px;
+}
+.memyselfandi {
     overflow: scroll;
-    text-align: center;
-    size-adjust: 50px;
-    height: 350px;
+    max-height: 320px;
+    max-width: 900px;
+    font-size: 18px;
+}
+
+footer {
+    margin-bottom: 50px;
+}
+.image {
+    max-width: 350px;
+    border: 0px;
+}
+.whoami {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#articleabtme {
+    margin-left: 50px;
+    max-width: 400px;
+}
+#imageone {
+float: right;
+margin-right: 80px;
+margin-top: 80px;
+}
+#mylovee {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+#footer {
+    margin-top: 50px;
+}
+#imagetwo {
+    float: left;
+    margin-left: 70px;
+    margin-top: 100px;
+}
+.menmaddy {
+    margin-top: 5px;
+    margin-bottom: 5px;
 }

@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"battlerName":"lucasfight","characterIndex":0,"characterName":"lucaswalk2","classId":1,"equips":[2,0,0,3,0],"faceIndex":0,"faceName":"lucasface2","traits":[],"initialLevel":15,"maxLevel":99,"name":"Lucas","nickname":"","note":"","profile":"The main character duh and maddys husband"},
-{"id":2,"battlerName":"wizardmaddyfight","characterIndex":0,"characterName":"wizardmaddywalk","classId":2,"equips":[7,0,65,21,0],"faceIndex":0,"faceName":"wizardmaddyface","traits":[],"initialLevel":15,"maxLevel":99,"name":"Maddy","nickname":"","note":"","profile":"A sorcerer and lucas' wife."},
+{"id":1,"battlerName":"lucasfight","characterIndex":0,"characterName":"lucaswalk2","classId":1,"equips":[2,0,0,3,0],"faceIndex":0,"faceName":"lucasface2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lucas","nickname":"","note":"","profile":"The main character duh and maddys husband"},
+{"id":2,"battlerName":"wizardmaddyfight","characterIndex":0,"characterName":"wizardmaddywalk","classId":2,"equips":[7,0,65,21,0],"faceIndex":0,"faceName":"wizardmaddyface","traits":[],"initialLevel":1,"maxLevel":99,"name":"Maddy","nickname":"","note":"","profile":"A sorcerer and lucas' wife."},
 {"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 {"id":4,"battlerName":"","characterIndex":0,"characterName":"Nature_mv","classId":10,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Nature_mv","traits":[],"initialLevel":1,"maxLevel":99,"name":"Butterdog","nickname":"","note":"","profile":"A lizard"},
 {"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
